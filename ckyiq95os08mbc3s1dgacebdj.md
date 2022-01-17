@@ -1,4 +1,6 @@
-## Stop paying for expensive real-time: soketi is your simple, fast, and resilient open-source WebSockets server. 📣
+## Stop paying for expensive real-time
+
+ soketi is your simple, fast, and resilient open-source WebSockets server. 📣
 
 ### Blazing fast speed ⚡
 
