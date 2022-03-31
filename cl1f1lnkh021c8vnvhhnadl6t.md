@@ -41,3 +41,9 @@ Indexing also affects data change in your database. Inserting, updating or delet
 ## What did we learn?
 
 Indexing has a great role in databases — it structures the data so it can be queried faster. In the end, you either end up having more data and slowdown on writing or deleting over the speed of reading or keep the write/delete speed even with the reading speed by not using indexes. It’s your choice.
+
+## 💸 Sponsorship
+
+Hi, I'm [Alex](https://github.com/rennokki), the founder of [Renoki Co.](https://github.com/renoki-co). I'm thankful for taking your time to read this article, and I hope that it helped you. Developing and maintaining packages and delivering good articles about Laravel, Kubernetes and AWS takes a lot of time, but I believe it's a time well spent.
+
+If you support more helpful articles, or you are using one or more Renoki Co. open-source packages in your production apps, in presentation demos, hobby projects, school projects or so, sponsor our work with [Github Sponsors](https://github.com/sponsors/rennokki). 📦
