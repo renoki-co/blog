@@ -139,6 +139,8 @@ foreach ($messages as $message) {
 I Hope PHP K8s unlocked your potential ideas of interacting with any Kubernetes cluster and will seem to be a good competitor for being adopted as a major player in the game of Kubernetes clients.
 Please open issues or feature requests within the Issues board on Github or if you think there are some improvements needed, submit a Pull Request and we will discuss it there.
 
+## 💸 Sponsorship
+
 Hi, I'm [Alex](https://github.com/rennokki), the founder of [Renoki Co.](https://github.com/renoki-co). I'm thankful for taking your time to read this article, and I hope that it helped you. Developing and maintaining packages and delivering good articles about Laravel, Kubernetes and AWS take a lot of time, but I believe it's a time well spent.
 
 If you support more helpful articles, or you are using one or more Renoki Co. open-source packages in your production apps, in presentation demos, hobby projects, school projects or so, sponsor our work with [Github Sponsors](https://github.com/sponsors/rennokki). 📦
